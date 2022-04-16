@@ -85,7 +85,10 @@ if (rain == true){
 */
 
 //CODE HERE
-
+let message = "hello"
+for (let i = 0; i < message.length + 5; i++) {
+  console.log(message);
+}
 ////////// PROBLEM 6 //////////
 
 /*
