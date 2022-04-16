@@ -108,7 +108,9 @@ for (let index = 0; index < 10; index++) {
 */
 
 //CODE HERE
-
+// let arraydown = [1,2,3,4,5,6,7,8,9,10]
+// for (let index = 9; index < arraydown.length; index--) {
+//   console.log (arraydown[index])}
 
 ////////// PROBLEM 8 //////////
 
